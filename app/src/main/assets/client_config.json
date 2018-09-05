@@ -1,0 +1,6 @@
+{
+	"host": "tcp://10.0.7.199",
+	"port": 1883,
+	"timeout": 30,
+	"clientId": "AndroidMqttClient"
+}

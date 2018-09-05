@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MQTT客户端</string>
+    <string name="publish">发布</string>
+    <string name="subscribe">订阅</string>
+    <string name="no_result">无结果</string>
+    <string name="subscribe_topic">订阅主题</string>
+    <string name="publish_topic">发布主题</string>
+    <string name="publish_content">发布内容</string>
+</resources>
